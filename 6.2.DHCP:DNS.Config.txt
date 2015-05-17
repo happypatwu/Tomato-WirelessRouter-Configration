@@ -1,0 +1,12 @@
+6.2.1 开启内置DNS 					Checked
+6.2.2 使用自定义DNS服务器 				Not Checked
+6.2.3 Prevent DNS－rebind attacks 	Checked
+6.2.4 截获DNS端口（UDP 53） 			Not Checked
+6.2.5 若WAN禁用，则使用自定义网关 		Not Checked
+6.2.6 DHCP租用的最大激活数 			255
+6.2.7 静态租约时间 					正常
+6.2.8 Dnsmasq自定义设置 				None
+＃DHCP客户端（WAN）
+6.2.9 Vendor Class ID 				None
+6.2.10 请求分配指定IP 				0.0.0.0
+6.2.11压缩包大小 						Not Checked
